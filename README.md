@@ -1,4 +1,4 @@
-# Production RAG
+# RAG
 
 Retrieval-Augmented Generation stack: upload documents, ingest them asynchronously, then chat with citations powered by a local **Ollama** LLM.
 
