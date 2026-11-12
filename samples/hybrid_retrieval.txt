@@ -1,0 +1,5 @@
+Hybrid retrieval blends dense semantic search with BM25 keyword matching.
+Reciprocal Rank Fusion merges ranked lists without needing calibrated scores.
+Cross-encoder rerankers refine the top candidates before context construction.
+Ollama then generates grounded answers with citations from selected passages.
+This playground verifies upload, Celery ingestion, and chat against indexed chunks.

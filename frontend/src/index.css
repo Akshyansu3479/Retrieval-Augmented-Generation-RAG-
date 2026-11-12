@@ -1,0 +1,6 @@
+/* Base resets live mostly in App.css; keep this minimal for Vite defaults. */
+button,
+input,
+textarea {
+  font: inherit;
+}
